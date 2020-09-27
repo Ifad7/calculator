@@ -17,5 +17,4 @@ class Controller:
 
 if __name__ == '__main__':
     calculator = Controller()
-    print(calculator.main())
     calculator.main()
